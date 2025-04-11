@@ -49,3 +49,16 @@ After understanding the schema, you’ll begin querying the data to extract valu
 - Use SQL functions to calculate aggregates like sums, averages, and ranks.
 
 ---
+##screenshot
+
+<img width="1133" alt="1" src="https://github.com/user-attachments/assets/133bf0a8-b49b-40fd-813e-510415493f4d" />
+
+<img width="1422" alt="4" src="https://github.com/user-attachments/assets/98c2f5d1-cfe4-44b7-a1e8-447729ba05bd" />
+
+<img width="1504" alt="5" src="https://github.com/user-attachments/assets/1e83d0d1-7d4b-43f3-bd26-8aef9e36d7ec" />
+
+<img width="1152" alt="8" src="https://github.com/user-attachments/assets/d947d884-1f98-42dd-950c-17eeb99644e9" />
+
+<img width="1319" alt="9" src="https://github.com/user-attachments/assets/be901ee1-0222-489e-9858-2c7d8e66e90a" />
+
+
